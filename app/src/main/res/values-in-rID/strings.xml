@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save_label">Simpan</string>
+    <string name="field_required">Harus diisi</string>
+    <string name="borrow_label">Utang</string>
+    <string name="lent_label">Piutang</string>
+    <string name="yes_label">Ya</string>
+    <string name="no_label">Tidak</string>
+    <string name="borrow_lent_label">Utang/Piutang</string>
+    <string name="date_label">Tanggal</string>
+    <string name="time_label">Waktu</string>
+    <string name="name_label">Nama</string>
+    <string name="amount">Nominal</string>
+    <string name="due_date_label">Jatuh Tempo</string>
+    <string name="note_label">Catatan</string>
+    <string name="paid_off_label">Lunas</string>
+    <string name="delete_label">Hapus</string>
+    <string name="data_empty_label">Tidak ada data</string>
+    <string name="unpaid_label">Belum Lunas</string>
+    <string name="delete_message">Apakah kamu ingin menghapus item ini?</string>
+    <string name="item_deleted_message">Item berhasil dihapus</string>
+    <string name="edit_item_label">Ubah Data</string>
+    <string name="add_new_label">Tambah Data</string>
+</resources>
